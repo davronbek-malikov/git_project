@@ -127,3 +127,61 @@
 2025-09-30 11:51:41,121 - INFO - Datasets loaded successfully. Shape: (20926, 20)
 2025-09-30 11:51:41,121 - INFO - Preprocesser uchun pipeline yaratilindi. Shape: %s
 2025-09-30 11:51:41,183 - INFO - Preprocesser pipeline yordamida bajarilindi. Shape: %s
+2025-09-30 21:50:32,112 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\ASerie\metadata_serie_a_1415.csv
+2025-09-30 21:50:32,116 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\ASerie\metadata_serie_a_1516.csv
+2025-09-30 21:50:32,120 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\ASerie\metadata_serie_a_1617.csv
+2025-09-30 21:50:32,126 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\ASerie\metadata_serie_a_1718.csv
+2025-09-30 21:50:32,130 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\ASerie\metadata_serie_a_1819.csv
+2025-09-30 21:50:32,134 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\ASerie\metadata_serie_a_1920.csv
+2025-09-30 21:50:32,138 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\ASerie\metadata_serie_a_2021.csv
+2025-09-30 21:50:32,141 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\ASerie\metadata_serie_a_2122.csv
+2025-09-30 21:50:32,144 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\BundesLiga\metadata_bundesliga_1415.csv
+2025-09-30 21:50:32,147 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\BundesLiga\metadata_bundesliga_1516.csv
+2025-09-30 21:50:32,150 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\BundesLiga\metadata_bundesliga_1617.csv
+2025-09-30 21:50:32,151 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\BundesLiga\metadata_bundesliga_1718.csv
+2025-09-30 21:50:32,151 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\BundesLiga\metadata_bundesliga_1819.csv
+2025-09-30 21:50:32,151 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\BundesLiga\metadata_bundesliga_1920.csv
+2025-09-30 21:50:32,160 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\BundesLiga\metadata_bundesliga_2021.csv
+2025-09-30 21:50:32,163 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\BundesLiga\metadata_bundesliga_2122.csv
+2025-09-30 21:50:32,167 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\LaLiga\metadata_laliga_1415.csv
+2025-09-30 21:50:32,170 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\LaLiga\metadata_laliga_1516.csv
+2025-09-30 21:50:32,173 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\LaLiga\metadata_laliga_1617.csv
+2025-09-30 21:50:32,176 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\LaLiga\metadata_laliga_1718.csv
+2025-09-30 21:50:32,179 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\LaLiga\metadata_laliga_1819.csv
+2025-09-30 21:50:32,181 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\LaLiga\metadata_laliga_1920.csv
+2025-09-30 21:50:32,184 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\LaLiga\metadata_laliga_2021.csv
+2025-09-30 21:50:32,187 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\LaLiga\metadata_laliga_2122.csv
+2025-09-30 21:50:32,189 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\League1\metadata_ligue1_1415_.csv
+2025-09-30 21:50:32,192 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\League1\metadata_ligue1_1516.csv
+2025-09-30 21:50:32,195 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\League1\metadata_ligue1_1617.csv
+2025-09-30 21:50:32,198 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\League1\metadata_ligue1_1718.csv
+2025-09-30 21:50:32,200 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\League1\metadata_ligue1_1819.csv
+2025-09-30 21:50:32,203 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\League1\metadata_ligue1_1920.csv
+2025-09-30 21:50:32,205 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\League1\metadata_ligue1_2021.csv
+2025-09-30 21:50:32,207 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\League1\metadata_ligue1_2122.csv
+2025-09-30 21:50:32,211 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\PremierLeague\metadata_premier_league_1415.csv
+2025-09-30 21:50:32,214 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\PremierLeague\metadata_premier_league_1516.csv
+2025-09-30 21:50:32,217 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\PremierLeague\metadata_premier_league_1617.csv
+2025-09-30 21:50:32,219 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\PremierLeague\metadata_premier_league_1718.csv
+2025-09-30 21:50:32,222 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\PremierLeague\metadata_premier_league_1819.csv
+2025-09-30 21:50:32,224 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\PremierLeague\metadata_premier_league_1920.csv
+2025-09-30 21:50:32,227 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\PremierLeague\metadata_premier_league_2021.csv
+2025-09-30 21:50:32,229 - INFO - Loaded file: C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\PremierLeague\metadata_premier_league_2122.csv
+2025-09-30 21:50:32,230 - INFO - Data loaded successfully. Shape: (20926, 20)
+2025-09-30 21:50:32,243 - INFO - Datasets loaded successfully. Shape: (20926, 20)
+2025-09-30 21:50:32,243 - INFO - Handling missing values...
+2025-09-30 21:50:32,260 - INFO - Missing values handled.
+2025-09-30 21:50:32,260 - INFO - Removing duplicate rows...
+2025-09-30 21:50:32,276 - INFO - Removed 0 duplicate rows.
+2025-09-30 21:50:32,276 - INFO - Duplicates removed.
+2025-09-30 21:50:32,276 - INFO - Encoding categorical variables with LabelEncoder...
+2025-09-30 21:50:32,299 - INFO - Encoded column: player_name
+2025-09-30 21:50:32,299 - INFO - Encoded column: position
+2025-09-30 21:50:32,299 - INFO - Encoded column: team_title
+2025-09-30 21:50:32,311 - INFO - Encoded column: league
+2025-09-30 21:50:32,314 - INFO - Encoded column: season
+2025-09-30 21:50:32,314 - INFO - Categorical columns encoded.
+2025-09-30 21:50:32,314 - INFO - Scaling numeric columns with MinMaxScaler...
+2025-09-30 21:50:32,328 - INFO - Scaled columns: ['id', 'player_name', 'games', 'time', 'goals', 'xG', 'assists', 'xA', 'shots', 'key_passes', 'yellow_cards', 'red_cards', 'position', 'team_title', 'npg', 'npxG', 'xGChain', 'xGBuildup', 'league', 'season']
+2025-09-30 21:50:32,328 - INFO - Numeric columns scaled.
+2025-09-30 21:50:32,328 - INFO - Data preprocessing completed. Final shape: (20926, 20)
